@@ -30,4 +30,6 @@ Each contact should be added as a seperate component in this section. i.e a chil
   
   Method to delete Contact will be in Child Component.
 
-  
+
+  <img width="267" alt="image" src="https://github.com/jpbharti88/AccountContactLWC/assets/32490925/a413dff9-43a9-4d05-a64b-44101788fb77">
+
