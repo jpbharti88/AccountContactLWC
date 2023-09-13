@@ -1,0 +1,14 @@
+.square {
+    width: 150px;
+    padding:20px;
+    background-color: lightpink;
+  }
+.contentClass{
+    color:crimson;
+    font-weight: bold;
+}
+ 
+.messageClass{
+    border-top: 1px solid #ccc;
+    width:100%;
+}
